@@ -1,5 +1,5 @@
 <template>
-  <div>Prout {{ value }} <b>message:</b> {{ message }}</div>
+  <div style="background:red">Prout {{ value }} <b>message:</b> {{ message }}</div>
 </template>
 
 <script>
